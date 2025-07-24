@@ -13,7 +13,7 @@ const App = () => {
 
 
   return (
-    <div className="bg-[url('/bgImage.svg')] bg-no-repeat bg-cover">
+    <div className="bg-[url('./src/assets/bgImage.svg')] bg-no-repeat bg-cover">
 
       <Toaster/>
 
