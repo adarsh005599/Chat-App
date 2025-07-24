@@ -46,10 +46,10 @@ app.use("/api/messages", messageRouter)
 //connect to db
 await connetdb();
 
-if(process.env.NODE_ENV !== "production"){
+
 const PORT = process.env.PORT || 8000;
 server.listen(PORT, () => console.log("server is running on PORT: " + PORT));
-}
+
 
 export default server;
 // export server for testing purposes
