@@ -13,7 +13,7 @@ const App = () => {
 
 
   return (
-  <div className="bg-[url('/bgimage.svg')] bg-contain">
+  <div className="bg-[url('/bgImage.svg')] bg-contain">
 
 
 
