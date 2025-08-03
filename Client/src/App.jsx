@@ -14,7 +14,7 @@ const App = () => {
 
   return (
   <div className="bg-[url('/bgimage.svg')] bg-contain">
-4
+
 
 
       <Toaster/>
@@ -28,9 +28,6 @@ const App = () => {
   )
 }
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 6b3e2581685a15c7dac295aa8b6f0a001bbdded8
 export default App
 
