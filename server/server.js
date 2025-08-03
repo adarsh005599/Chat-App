@@ -46,16 +46,10 @@ app.use("/api/messages", messageRouter)
 //connect to db
 await connetdb();
 
-<<<<<<< HEAD
 const PORT = process.env.PORT || 8000;
 
 server.listen(PORT, () => console.log("server is running on PORT: " + PORT));
-=======
 
-const PORT = process.env.PORT || 8000;
-server.listen(PORT, () => console.log("server is running on PORT: " + PORT));
 
 
 export default server;
-// export server for testing purposes
->>>>>>> facd466438a65b23f6678d6af176b3bea7f8d7d2

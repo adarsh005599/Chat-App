@@ -29,7 +29,7 @@ const LoginPage = () => {
         initial={{ opacity: 0, y: -40 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
-        src={assets.logo_big}
+        src={"/birdbaby.png"}
         className="w-40 sm:w-48 md:w-56"
       />
 

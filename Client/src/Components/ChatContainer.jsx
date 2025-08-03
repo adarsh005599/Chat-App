@@ -33,7 +33,7 @@ const ChatContainer = () => {
       e.target.value = '';
     };
     reader.readAsDataURL(file);
-  };
+  };a
 
   useEffect(() => {
     const timeout = setTimeout(() => setIsTyping(false), 3000);
