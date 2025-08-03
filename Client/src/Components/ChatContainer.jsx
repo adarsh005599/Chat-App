@@ -62,7 +62,7 @@ const ChatContainer = () => {
           initial={{ y: -10 }}
           animate={{ y: 0 }}
           transition={{ repeat: Infinity, repeatType: 'reverse', duration: 1.5 }}
-          src={assets.logo_icon}
+          src={"/birdbaby.png"}
           className="w-16"
         />
         <p className="text-lg font-medium text-gray-300">Chat anytime, anywhere</p>
