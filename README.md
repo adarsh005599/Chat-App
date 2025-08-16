@@ -2,6 +2,11 @@
 👉 View Live App -- https://quickchat-6vkt.onrender.com/
 
 A real-time chat application built with the MERN stack (MongoDB, Express, React, Node.js), featuring secure authentication, live messaging, file sharing, typing indicators, message status (seen/tick), and more.
+<p align="center">
+  <img src="./Client/src/assets/Screenshot%20(199).png" alt="login Page" width="250"/>
+  <img src="./Client/src/assets/Screenshot%20(201).png" alt="profile Page" width="250"/>
+  <img src=".Client/src/assets/Screenshot%20(200).png" alt="chat area" width="250"/>
+</p>
 
  🚀 Features
 
