@@ -13,7 +13,11 @@ const App = () => {
 
 
   return (
+<<<<<<< HEAD
   <div className="bg-[url('/bgimage.svg')] bg-contain">
+=======
+  <div className="bg-[url('/bglmage.svg')] bg-contain">
+>>>>>>> 9b7125556584a81f674e900f63a055987ba96c1a
 
 
 
@@ -28,5 +32,9 @@ const App = () => {
   )
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9b7125556584a81f674e900f63a055987ba96c1a
 export default App
 
