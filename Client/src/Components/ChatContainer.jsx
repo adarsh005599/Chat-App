@@ -62,7 +62,7 @@ const ChatContainer = () => {
           initial={{ y: -10 }}
           animate={{ y: 0 }}
           transition={{ repeat: Infinity, repeatType: 'reverse', duration: 1.5 }}
-          src={assets.logo_icon}
+          src={"/birdbaby.png"}
           className="w-16"
         />
         <p className="text-lg font-medium text-gray-300">Chat anytime, anywhere</p>
@@ -177,7 +177,7 @@ const ChatContainer = () => {
                 ))}
               </div>
               <div className="text-center text-xs text-gray-400">
-                <img src={assets.profile_martin} className="w-7 rounded-full" />
+                <img src={authuser.profilePic} className="w-7 rounded-full" />
                 <p className="text-gray-500">typing...</p>
               </div>
             </motion.div>
