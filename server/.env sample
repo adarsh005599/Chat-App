@@ -1,0 +1,13 @@
+MONGODB_URI=mongodb uri paste hear
+
+// Clodinary files
+
+CLOUDINARY_API_KEY=xxxxxxx-- your api key
+CLOUDINARY_API_SECRET= -- your sec key--
+CLOUDINARY_CLOUD_NAME=-- cloud name--
+
+//jwt sec
+JWT_SECRET=-- your super jwt sec
+
+// backend server
+PORT=8000
