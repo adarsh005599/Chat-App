@@ -8,6 +8,7 @@ A real-time chat application built with the MERN stack (MongoDB, Express, React,
   <img src="./Client/src/assets/Screenshot%20(200).png" alt="chat area" width="250"/>
 </p>
 
+
   Features
 
 - ✅ User Authentication (JWT)
